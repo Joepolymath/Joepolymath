@@ -1,9 +1,9 @@
 <h3 align="center">
-  H!
+  Joshua Tobi Ajagbe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Joshua+Ajagbe;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Joshua+Ajagbe;I+am+a+Full+Stack+Developer;Frontend;Backend;"></a>
 </p>
 
 ---
@@ -22,11 +22,11 @@
 💬 Always willing to help beginners.
 
 📫 How to reach me:  
- Mail me at "joshuaajagbe96@gmail.com" or
+ Mail me at "joshuaajagbe96@gmail.com"
 
   <!-- scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME -->
 
-⚡ Fun fact: I taught myself how to code, during the COVID 19 lockdown.
+⚡ Fun fact: I taught myself how to code, during the COVID 19 lockdown and I haved grown rapidly.
 
 ## 🌐Socials
 
@@ -62,11 +62,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
+<!-- --- -->
 
 ---
 

@@ -11,9 +11,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m a Full Stack Software Engineer.
-  
 🌱 I’m currently learning : C#.
+
+🔭 I’m a Full Stack Software Engineer.
 
 👯 I am great at JavaScript and Python
 

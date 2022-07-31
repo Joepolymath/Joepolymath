@@ -26,7 +26,7 @@
 
   <!-- scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME -->
 
-⚡ Fun fact: I taught myself how to code, during the COVID 19 lockdown and I haved grown rapidly.
+⚡ Fun fact: I taught myself how to code, during the COVID 19 lockdown and I have grown rapidly.
 
 ## 🌐Socials
 

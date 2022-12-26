@@ -11,9 +11,9 @@
 <div align="center">
   
 # 💫About Me :
-🌱 I’m currently learning : Java.
-
 🔭 I’m a Full Stack Software Engineer.
+
+🌱 I’m currently learning : Go.
 
 👯 I am great at JavaScript and Python
 

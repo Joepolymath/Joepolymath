@@ -17,7 +17,7 @@
 
 👯 I am great at JavaScript and Python
 
-🤔 Working on an npm package.
+🛠️ Javascript tooling.
 
 💬 Always willing to help beginners.
 

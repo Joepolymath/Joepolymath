@@ -13,9 +13,9 @@
 # 💫About Me :
 🔭 I’m a Full Stack Software Engineer.
 
-🌱 I’m currently learning : Go.
+🌱 I’m currently learning : Rust.
 
-👯 I am great at JavaScript and Python
+👯 I actively write JavaScript, Typescript, Python and Golang.
 
 🛠️ Javascript tooling.
 

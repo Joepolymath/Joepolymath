@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 I’m a Full Stack Software Engineer.
 
-🌱 I’m currently learning : Rust.
+🌱 I’m currently learning : C++.
 
 👯 I actively write JavaScript, Typescript, Python and Golang.
 
